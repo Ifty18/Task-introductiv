@@ -7,7 +7,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 }
 .img_container :hover {
   border-radius: 40px;
-  background-color: darkblue;
+  background-color: black;
 }
 img {vertical-align: middle;}
 
