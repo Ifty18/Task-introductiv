@@ -55,6 +55,11 @@
     background-color: #de5749;
 }
 
+.ASIIslider_img
+{
+    height: 180px;
+}
+
 .ASIIslider_slide:hover > .ASIIslider_img
 {
     -webkit-filter: brightness(0) invert(1);
@@ -132,4 +137,15 @@
 .ASIIslider_activeDot
 {
     background-color: rgb(141, 1, 1);
+}
+
+/* Responsive */
+
+@media screen and (max-width: 550px) 
+{
+    .ASIIslider_img 
+    {
+        width: 100%;
+        height: auto;
+    }
 }
