@@ -55,6 +55,12 @@
     background-color: #de5749;
 }
 
+.ASIIslider_slide:hover > .ASIIslider_img
+{
+    -webkit-filter: brightness(0) invert(1);
+    filter: brightness(0) invert(1);
+}
+
 .ASIIslider_slide:hover > .ASIIslider_title
 {
     color: white;
