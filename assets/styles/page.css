@@ -21,10 +21,4 @@ body
     align-items: center;
     
     padding: 20px 0px 20px 0px;
-
-    border-width: 6px 0px 6px 0px;
-    border-style: solid;
-    border-color: tomato;
-
-    background-color: rgb(255, 255, 255)
 }
